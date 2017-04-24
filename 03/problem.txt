@@ -1,0 +1,17 @@
+Introduction
+
+Do you know the Triangle Inequality Theorem?  Just in case you don’t, here it is:
+
+The sum of the lengths of any two sides of a triangle is greater than the length of the third side.
+
+That sounds easy enough, right?  Your job is to write a program that can identify valid triangles.  Not only do you need to determine if the three sides can form a triangle – you also have to tell what type it is.  There are three classifications of triangles:
+
+Equilateral triangles have three sides of equal length.
+Isosceles triangles have two sides of equal length and one side that is different.
+Scalene triangles have no equal side lengths.
+
+Program Input
+
+The first line of the file Prob.in.txt will contain a positive integer T denoting the number of test cases that follow.  Each test case will have the following input:
+
+A single line with three side lengths separated by a comma and a space.
