@@ -1,0 +1,14 @@
+Java program: Prob01.java
+Input File:  Prob01.in.txt
+Output: Your output needs to be directed to stdout (i.e., using System.out.println())
+
+Introduction
+
+Are you tired of traditional game boards like checker boards or chess boards?  Us too!  We would like to invent a game that is played on a board where every square is the same, and we need your help to construct the game board.  You’ll need to write a program to help you, of course.
+
+Write a program which displays an N x N square board made using the pound sign (#).  For example N=5 would produce:
+
+# # # # #
+# # # # #
+# # # # #
+# # # # #
